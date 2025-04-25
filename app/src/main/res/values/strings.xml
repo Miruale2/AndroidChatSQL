@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidChat</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="user_name">User name</string>
+    <string name="no_username">Name</string>
+    <string name="load_error">Load</string>
+    <string name="not_authorized">Auth</string>
+</resources>
